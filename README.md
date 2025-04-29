@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Immanuel</h1>
+<h1>Hi 👋, I'm Immanuel</h1> 
 <p>🌱 Beginner in Tech <br>💡 From Curiosity to Code: My Developer Journey  <br>📚 Aspiring Developer | Eager to Learn & Grow <br>😴 Lazy Programmer</p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Beginner+in+Tech;Lazy+Programmer;If+It+Works,+Don't+Touch+It" alt="Typing SVG" /> 
 <h2>🚀 Languages and Tools I Use</h2>
