@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif" width="100%"/>
 
   <h1>Hi there, I'm Immanuel 👋</h1>
 
