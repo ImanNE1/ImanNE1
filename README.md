@@ -3,10 +3,8 @@
   <img src="https://media.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif" width="100%"/>
 
   <h1>Hi there, I'm Immanuel 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Beginner+in+Tech, Aspiring+Developer;From+Curiosity+to+Code, Lazy+Programmer" alt="Typing SVG" />
 
-  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Beginner+in+Tech;Aspiring+Developer;From+Curiosity+to+Code;Lazy+Programmer" alt="Typing SVG" />
-</div>
 
 </div>
 
