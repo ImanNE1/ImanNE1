@@ -19,10 +19,10 @@ jobs:
           outputs: |
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=dracula
-      
+
       - name: Push new files
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          build_dir: .
           target_branch: main
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: "Generate Contribution Snake"
