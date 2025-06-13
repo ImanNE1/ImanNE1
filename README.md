@@ -84,7 +84,6 @@
         <summary><b>Backend Development</b></summary>
         <p>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" alt="nestjs" width="42" height="42" />
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="42" height="42" />
           <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="42" height="42" />
         </p>
