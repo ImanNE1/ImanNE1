@@ -13,12 +13,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
+      # Izin untuk menulis ke repositori
       contents: write
     steps:
-      # Step 1: Checkout repositori
+      # Step 1: Checkout repositori Anda
       - uses: actions/checkout@v3
 
-      # Step 2: Membuat animasi snake
+      # Step 2: Membuat file animasi snake
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -26,15 +27,18 @@ jobs:
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=dracula
 
-      # Step 3: Mendorong file baru ke branch main
-      - name: Push new files
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          # Direktori yang akan di-push (wajib ada)
-          build_dir: .
-          # Commit ke branch yang sama (main)
-          target_branch: main
-          # Token untuk otorisasi (wajib ada)
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          # Pesan commit
-          commit_message: "Generate Contribution Snake"
+      # Step 3: Menggunakan Git untuk menyimpan file yang baru dibuat
+      - name: Commit and push new snake files
+        run: |
+          # Konfigurasi identitas git untuk bot actions
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Tambahkan semua file baru ke staging
+          git add .
+          # Cek apakah ada perubahan, jika ya, lakukan commit dan push
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Generate Contribution Snake"
+            git push
+          else
+            echo "No changes to commit"
+          fi
