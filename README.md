@@ -150,12 +150,4 @@
 
 ---
 
-### 🐍 Here's a Snake Eating My Contributions
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImanNE1/ImanNE1/main/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImanNE1/ImanNE1/main/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ImanNE1/ImanNE1/main/github-contribution-grid-snake.svg">
-  </picture>
-</div>
