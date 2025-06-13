@@ -1,18 +1,24 @@
+# Nama dari GitHub Action
 name: Generate Snake Animation
 
+# Pemicu Action
 on:
   schedule:
+    # Berjalan setiap 12 jam
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+# Pekerjaan yang akan dilakukan
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      # Step 1: Checkout repositori
       - uses: actions/checkout@v3
 
+      # Step 2: Membuat animasi snake
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -20,9 +26,15 @@ jobs:
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=dracula
 
+      # Step 3: Mendorong file baru ke branch main
       - name: Push new files
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          # Direktori yang akan di-push (wajib ada)
           build_dir: .
+          # Commit ke branch yang sama (main)
           target_branch: main
+          # Token untuk otorisasi (wajib ada)
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Pesan commit
           commit_message: "Generate Contribution Snake"
