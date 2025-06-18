@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="100%"/>
 
-  <h1>Hi there, I'm Immanuel 👋</h1>
+  <h1>Hii there, I'm Immanuel 👋</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Beginner+in+Tech,+Lazy+Programmer;From+Curiosity+to+Code,+Aspiring+Developer" alt="Typing SVG" />
 
 </div>
