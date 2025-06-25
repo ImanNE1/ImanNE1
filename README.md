@@ -139,9 +139,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ImanNE1&show_icons=true&locale=en&theme=radical" alt="ImanNE1 GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImanNE1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImanNE1&theme=radical" alt="GitHub Streak" />
-</p>
+</p> -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ImanNE1&theme=radical&column=7" alt="ImanNE1 Trophies" />
