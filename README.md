@@ -20,7 +20,7 @@
   <br/><br/>
 
   <!-- ステータス | Status -->
-  <img src="https://komarev.com/ghpvc/?username=ImanNE1&label=訪問者%20·%20Visitors&color=C4A882&style=flat" alt="Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=ImanNE1&label=訪問者%20·%20Visitors%20·%20&color=C4A882&style=flat" alt="Visitors"/>
 
 </div>
 
