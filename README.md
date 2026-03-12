@@ -24,7 +24,7 @@
   <br/><br/>
 
   <!-- ステータス | Status -->
-  <img src="https://komarev.com/ghpvc/?username=ImanNE1&label=訪問者&color=E8D5C4&style=flat&labelColor=F5F0EB" alt="Visitors"/>
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ImanNE1.ImanNE1&left_color=F5F0EB&right_color=E8D5C4&left_text=訪問者)
 
 </div>
 
@@ -42,25 +42,70 @@
 
 <br/>
 
-<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding"/>
+<table align="center">
+<tr>
+<td width="50%">
 
 ```
-┌─────────────────────────────────────────┐
-│                                         │
-│   名前       Immanuel                   │
-│   場所       Indonesia                  │
-│   専門       Full-Stack Development     │
-│   趣味       自動化 & コーヒー           │
-│                                         │
-│   ─────────────────────────────────     │
-│                                         │
-│   「怠惰は革新の母」                     │
-│   Laziness is the mother of innovation  │
-│                                         │
-└─────────────────────────────────────────┘
+╭──────────────────────────────────╮
+│                                  │
+│  名前 · Name                     │
+│  ─────────────────────────────   │
+│  Immanuel Kristiandika Putra     │
+│                                  │
+│  場所 · Location                 │
+│  ─────────────────────────────   │
+│  Indonesia 🇮🇩                    │
+│                                  │
+│  専門 · Specialization           │
+│  ─────────────────────────────   │
+│  Full-Stack Development          │
+│  Mobile Development              │
+│  Cloud Architecture              │
+│                                  │
+│  趣味 · Interests                │
+│  ─────────────────────────────   │
+│  自動化 · Automation             │
+│  コーヒー · Coffee               │
+│  学習 · Learning                 │
+│                                  │
+╰──────────────────────────────────╯
 ```
 
-<br clear="both"/>
+</td>
+<td width="50%">
+
+```
+╭──────────────────────────────────╮
+│                                  │
+│  信念 · Philosophy               │
+│  ─────────────────────────────   │
+│                                  │
+│  「怠惰は革新の母」               │
+│                                  │
+│  Laziness is the mother          │
+│  of innovation.                  │
+│                                  │
+│  ─────────────────────────────   │
+│                                  │
+│  現在学習中 · Currently Learning │
+│  ─────────────────────────────   │
+│  • Web3 & Blockchain             │
+│  • System Design                 │
+│  • Rust Programming              │
+│  • Machine Learning              │
+│                                  │
+│  ─────────────────────────────   │
+│                                  │
+│  「継続は力なり」                 │
+│  Continuity is power.            │
+│                                  │
+╰──────────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -144,17 +189,83 @@
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImanNE1&show_icons=true&hide_border=true&bg_color=FDFCFB&title_color=2D2D2D&text_color=4A4A4A&icon_color=C4A882&hide_title=true&include_all_commits=true&count_private=true" alt="Stats"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImanNE1&hide_border=true&background=FDFCFB&stroke=E8D5C4&ring=C4A882&fire=C4A882&currStreakLabel=2D2D2D&sideLabels=4A4A4A&currStreakNum=2D2D2D&sideNums=4A4A4A&dates=8B8B8B" alt="Streak"/>
+<sub>*「数字は嘘をつかない」— Numbers don't lie*</sub>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanNE1&layout=compact&hide_border=true&bg_color=FDFCFB&title_color=2D2D2D&text_color=4A4A4A&hide_title=true&langs_count=6" alt="Languages"/>
+</div>
+
+<!-- 統計カード | Stats Cards -->
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ImanNE1&show_icons=true&hide_border=true&bg_color=00000000&title_color=4A4A4A&text_color=6B6B6B&icon_color=C4A882&hide_title=true&include_all_commits=true&count_private=true&line_height=28" alt="Stats"/>
+
+</td>
+<td align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImanNE1&hide_border=true&background=00000000&stroke=E8D5C4&ring=C4A882&fire=C4A882&currStreakLabel=4A4A4A&sideLabels=6B6B6B&currStreakNum=4A4A4A&sideNums=6B6B6B&dates=8B8B8B" alt="Streak"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanNE1&layout=compact&hide_border=true&bg_color=00000000&title_color=4A4A4A&text_color=6B6B6B&hide_title=true&langs_count=6" alt="Languages"/>
+
+</div>
+
+<br/>
+
+<!-- 活動グラフ | Activity Graph -->
+<div align="center">
+
+<sub>活動履歴 · *Activity History*</sub>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ImanNE1&bg_color=FDFCFB&color=4A4A4A&line=C4A882&point=2D2D2D&area_color=E8D5C4&area=true&hide_border=true&hide_title=true" alt="Activity"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ImanNE1&bg_color=00000000&color=6B6B6B&line=C4A882&point=4A4A4A&area_color=E8D5C4&area=true&hide_border=true&hide_title=true&radius=3" alt="Activity"/>
 
+</div>
+
+<br/>
+
+<!-- プロフィールサマリー | Profile Summary -->
+<div align="center">
+
+<sub>詳細分析 · *Detailed Analysis*</sub>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImanNE1&theme=default" alt="Profile Summary"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImanNE1&theme=default" alt="Repos per Language"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImanNE1&theme=default" alt="Most Commit Language"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImanNE1&theme=default" alt="Stats"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImanNE1&theme=default&utcOffset=7" alt="Productive Time"/>
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
@@ -192,7 +303,7 @@
   
   <br/><br/>
   
-  <img src="https://profile-counter.glitch.me/ImanNE1/count.svg" alt="Visitors"/>
+  ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImanNE1&count_bg=%23E8D5C4&title_bg=%23F5F0EB&icon=github.svg&icon_color=%234A4A4A&title=訪問者&edge_flat=true)
   
   <br/><br/>
   
