@@ -1,7 +1,3 @@
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                        🌸 和の美学 | JAPANESE AESTHETICS 🌸                      -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1"/>
 
 <div align="center">
