@@ -11,7 +11,7 @@
   <br/><br/>
   
   <!-- 名前 | Name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Zen+Kaku+Gothic+New&weight=300&size=32&duration=3000&pause=1000&color=4A4A4A&center=true&vCenter=true&repeat=false&width=400&height=60&lines=Immanuel_Kristiandika_Putra" alt="Immanuel Kristiandika Putra"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Zen+Kaku+Gothic+New&weight=300&size=32&duration=3000&pause=1000&color=4A4A4A&center=true&vCenter=true&repeat=false&width=400&height=60&lines=Immanuel" alt="Immanuel Kristiandika Putra"/>
   
   <br/>
   
@@ -60,7 +60,7 @@ Cloud Architecture
 趣味 · Interests               
 ─────────────────────────────   
 自動化 · Automation             
-コーヒー · Coffee               
+写真 · Photography               
 学習 · Learning                 
 音楽 · Music                    
 ゲーム · Game
