@@ -20,7 +20,7 @@
   <br/><br/>
 
   <!-- ステータス | Status -->
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ImanNE1.ImanNE1&left_color=F5F0EB&right_color=E8D5C4&left_text=訪問者)
+  <img src="https://komarev.com/ghpvc/?username=ImanNE1&label=訪問者%20·%20Visitors&color=C4A882&style=flat" alt="Visitors"/>
 
 </div>
 
@@ -287,7 +287,6 @@ Continuity is power.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1"/>
 
 <div align="center">
   <sub>最終更新 · March 2026</sub>
