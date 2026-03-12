@@ -11,7 +11,7 @@
   <br/><br/>
   
   <!-- 名前 | Name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Zen+Kaku+Gothic+New&weight=300&size=32&duration=3000&pause=1000&color=4A4A4A&center=true&vCenter=true&repeat=false&width=400&height=60&lines=Immanuel&nbsp;Kristiandika&nbsp;Putra" alt="Immanuel Kristiandika Putra"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Zen+Kaku+Gothic+New&weight=300&size=32&duration=3000&pause=1000&color=4A4A4A&center=true&vCenter=true&repeat=false&width=400&height=60&lines=Immanuel_Kristiandika_Putra" alt="Immanuel Kristiandika Putra"/>
   
   <br/>
   
@@ -43,60 +43,34 @@
 <td width="50%">
 
 ```
-╭──────────────────────────────────╮
-│                                  │
-│  名前 · Name                     │
-│  ─────────────────────────────   │
-│  Immanuel Kristiandika Putra     │
-│                                  │
-│  場所 · Location                 │
-│  ─────────────────────────────   │
-│  Indonesia 🇮🇩                    │
-│                                  │
-│  専門 · Specialization           │
-│  ─────────────────────────────   │
-│  Full-Stack Development          │
-│  Mobile Development              │
-│  Cloud Architecture              │
-│                                  │
-│  趣味 · Interests                │
-│  ─────────────────────────────   │
-│  自動化 · Automation             │
-│  コーヒー · Coffee               │
-│  学習 · Learning                 │
-│                                  │
-╰──────────────────────────────────╯
-```
+名前 · Name                     
+─────────────────────────────   
+Immanuel Kristiandika Putra    
+                                 
+場所 · Location                 
+─────────────────────────────   
+Indonesia 🇮🇩                    
+                                  
+専門 · Specialization           
+─────────────────────────────   
+Full-Stack Development          
+Mobile Development              
+Cloud Architecture              
+                                  
+趣味 · Interests               
+─────────────────────────────   
+自動化 · Automation             
+コーヒー · Coffee               
+学習 · Learning                 
+音楽 · Music                    
+ゲーム · Game
 
-</td>
-<td width="50%">
-
-```
-╭──────────────────────────────────╮
-│                                  │
-│  信念 · Philosophy               │
-│  ─────────────────────────────   │
-│                                  │
-│  「怠惰は革新の母」               │
-│                                  │
-│  Laziness is the mother          │
-│  of innovation.                  │
-│                                  │
-│  ─────────────────────────────   │
-│                                  │
-│  現在学習中 · Currently Learning │
-│  ─────────────────────────────   │
-│  • Web3 & Blockchain             │
-│  • System Design                 │
-│  • Rust Programming              │
-│  • Machine Learning              │
-│                                  │
-│  ─────────────────────────────   │
-│                                  │
-│  「継続は力なり」                 │
-│  Continuity is power.            │
-│                                  │
-╰──────────────────────────────────╯
+信念 · Philosophy
+─────────────────────────────
+「怠惰は革新の母」
+Laziness is the mother of innovation.
+「継続は力なり」
+Continuity is power.                  
 ```
 
 </td>
