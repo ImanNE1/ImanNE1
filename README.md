@@ -272,10 +272,7 @@ Continuity is power.
   <sub>*Thank you for visiting*</sub>
   
   <br/><br/>
-  
-  ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImanNE1&count_bg=%23E8D5C4&title_bg=%23F5F0EB&icon=github.svg&icon_color=%234A4A4A&title=訪問者&edge_flat=true)
-  
-  <br/><br/>
+
   
   <sub>
   
