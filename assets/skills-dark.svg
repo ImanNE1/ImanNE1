@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="392" viewBox="0 0 1200 392" fill="none">
+<style>
+  .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif; }
+  .mono { font-family: 'Cascadia Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+  @keyframes sway {
+    0%, 100% { transform: rotate(-2.4deg); }
+    50% { transform: rotate(2.4deg); }
+  }
+  @keyframes floatY {
+    0%, 100% { transform: translateY(0px); opacity: 0.72; }
+    50% { transform: translateY(-7px); opacity: 1; }
+  }
+  @keyframes pulseDot {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.45; transform: scale(0.82); }
+  }
+  @keyframes spinCW {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  @keyframes spinCCW {
+    from { transform: rotate(360deg); }
+    to { transform: rotate(0deg); }
+  }
+  @keyframes scanX {
+    0% { transform: translateX(-180px); opacity: 0; }
+    20% { opacity: 0.85; }
+    80% { opacity: 0.85; }
+    100% { transform: translateX(1240px); opacity: 0; }
+  }
+  
+</style>
+<defs>
+
+      <linearGradient id="skBg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#0C131D"/>
+        <stop offset="100%" stop-color="#131D2B"/>
+      </linearGradient>
+      <radialGradient id="s3Glow" cx="0.5" cy="0.25" r="0.75">
+        <stop offset="0%" stop-color="#FFE08A" stop-opacity="0.22"/>
+        <stop offset="100%" stop-color="#152130" stop-opacity="0"/>
+      </radialGradient>
+      <clipPath id="skClip">
+        <path d="M 22,2 H 1178 L 1198,22 V 370 L 1178,390 H 22 L 2,370 V 22 Z"/>
+      </clipPath>
+    
+</defs>
+  <g clip-path="url(#skClip)">
+    <rect width="1200" height="392" fill="url(#skBg)"/>
+    
+        <g>
+          <path d="M 38,22 H 374 L 390,38 V 262 L 374,278 H 38 L 22,262 V 38 Z" fill="#152130" stroke="#263B52" stroke-width="1.2"/>
+          <path d="M 38,22 H 374 L 390,38 V 262 L 374,278 H 38 L 22,262 V 38 Z" fill="none"/>
+          <rect x="38" y="22" width="92" height="3.5" fill="#4BD0D9"/>
+
+          
+    <g transform="translate(44,42)">
+      <path d="M 12,0 H 50 L 62,12 V 50 L 50,62 H 12 L 0,50 V 12 Z" fill="rgba(75, 208, 217, 0.14)" stroke="#4BD0D9" stroke-width="1.6"/>
+      <path d="M 18,22 C 18,14 44,14 44,22" stroke="#F4C860" stroke-width="2" fill="none"/>
+      <path d="M 22,22 C 20,34 15,38 15,40 H 31 C 31,38 26,34 24,22 Z" fill="#F4C860" opacity="0.92"/>
+      <path d="M 38,22 C 36,34 31,38 31,40 H 47 C 47,38 42,34 40,22 Z" fill="#4BD0D9" opacity="0.9"/>
+      <circle cx="23" cy="44" r="2.6" fill="#FFE08A"/>
+      <circle cx="39" cy="44" r="2.6" fill="#7AE6ED"/>
+      <polygon points="31,10 33,14 37,16 33,18 31,22 29,18 25,16 29,14" fill="#FFE08A"/>
+    </g>
+
+          <text x="136" y="58" class="mono" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#4BD0D9">SKILL 01 // M3 · AUTO RECOVERY</text>
+          <text x="136" y="82" class="sans" font-size="19" font-weight="800" fill="#F7F3E6">Childhood Frolic</text>
+          <text x="136" y="102" class="sans" font-size="12" font-weight="600" fill="#8295AB">子供の遊び · Frontend &amp; Mobile Arts</text>
+
+          <line x1="44" y1="122" x2="368" y2="122" stroke="#263B52" stroke-width="1"/>
+
+          <path d="M 51,136 H 368 V 163 L 361,170 H 44 V 143 Z" fill="#1A283A" stroke="#263B52" stroke-width="0.9"/>
+          <text x="206.0" y="157" text-anchor="middle" class="mono" font-size="11.2" font-weight="700" fill="#7AE6ED">React · Next.js · Vue · Angular · Flutter</text>
+
+          <text x="44" y="198" class="sans" font-size="13" fill="#CBD5E1">Crafts calm, responsive, zero-friction</text>
+          <text x="44" y="218" class="sans" font-size="13" fill="#CBD5E1">user interfaces across web &amp; mobile.</text>
+
+          <g transform="translate(44, 246)">
+            <polygon points="0,-6 6,0 0,6 -6,0" fill="#4BD0D9"/>
+            <polygon points="16,-6 22,0 16,6 10,0" fill="#4BD0D9"/>
+            <polygon points="32,-6 38,0 32,6 26,0" fill="#4BD0D9"/>
+            <text x="48" y="4" class="mono" font-size="10.5" font-weight="700" letter-spacing="1" fill="#8295AB">MASTERY RANK III</text>
+          </g>
+        </g>
+        <g>
+          <path d="M 430,22 H 766 L 782,38 V 262 L 766,278 H 430 L 414,262 V 38 Z" fill="#152130" stroke="#263B52" stroke-width="1.2"/>
+          <path d="M 430,22 H 766 L 782,38 V 262 L 766,278 H 430 L 414,262 V 38 Z" fill="none"/>
+          <rect x="430" y="22" width="92" height="3.5" fill="#F4C860"/>
+
+          
+    <g transform="translate(436,42)">
+      <path d="M 12,0 H 50 L 62,12 V 50 L 50,62 H 12 L 0,50 V 12 Z" fill="rgba(244, 200, 96, 0.15)" stroke="#F4C860" stroke-width="1.6"/>
+      <path d="M 24,45 C 14,38 16,24 27,16 C 25,25 31,29 31,37 C 31,42 28,45 24,45 Z" fill="#4BD0D9"/>
+      <path d="M 39,46 C 32,46 31,38 35,31 C 39,25 46,21 43,14 C 52,22 50,41 39,46 Z" fill="#F4C860"/>
+      <circle cx="24" cy="36" r="2.6" fill="#FFFDF7"/>
+      <circle cx="40" cy="34" r="2.6" fill="#FFFDF7"/>
+      <line x1="24" y1="36" x2="40" y2="34" stroke="#FFFDF7" stroke-width="1.2" stroke-dasharray="2 2"/>
+    </g>
+
+          <text x="528" y="58" class="mono" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#F4C860">SKILL 02 // M3 · MULTI-TARGET</text>
+          <text x="528" y="82" class="sans" font-size="19" font-weight="800" fill="#F7F3E6">Foxfire Haze</text>
+          <text x="528" y="102" class="sans" font-size="12" font-weight="600" fill="#8295AB">狐火の霧 · Backend, APIs &amp; Automation</text>
+
+          <line x1="436" y1="122" x2="760" y2="122" stroke="#263B52" stroke-width="1"/>
+
+          <path d="M 443,136 H 760 V 163 L 753,170 H 436 V 143 Z" fill="#1A283A" stroke="#263B52" stroke-width="0.9"/>
+          <text x="598.0" y="157" text-anchor="middle" class="mono" font-size="11.2" font-weight="700" fill="#7AE6ED">Node.js · Go · Python · FastAPI · Laravel</text>
+
+          <text x="436" y="198" class="sans" font-size="13" fill="#CBD5E1">Orchestrates resilient APIs &amp; silently</text>
+          <text x="436" y="218" class="sans" font-size="13" fill="#CBD5E1">automates repetitive engineering toil.</text>
+
+          <g transform="translate(436, 246)">
+            <polygon points="0,-6 6,0 0,6 -6,0" fill="#F4C860"/>
+            <polygon points="16,-6 22,0 16,6 10,0" fill="#F4C860"/>
+            <polygon points="32,-6 38,0 32,6 26,0" fill="#F4C860"/>
+            <text x="48" y="4" class="mono" font-size="10.5" font-weight="700" letter-spacing="1" fill="#8295AB">MASTERY RANK III</text>
+          </g>
+        </g>
+        <g>
+          <path d="M 822,22 H 1158 L 1174,38 V 262 L 1158,278 H 822 L 806,262 V 38 Z" fill="#152130" stroke="#F4C860" stroke-width="1.8"/>
+          <path d="M 822,22 H 1158 L 1174,38 V 262 L 1158,278 H 822 L 806,262 V 38 Z" fill="url(#s3Glow)"/>
+          <rect x="822" y="22" width="92" height="3.5" fill="#FFE08A"/>
+
+          
+    <g transform="translate(828,42)">
+      <path d="M 12,0 H 50 L 62,12 V 50 L 50,62 H 12 L 0,50 V 12 Z" fill="#F4C860" stroke="#7AE6ED" stroke-width="1.8"/>
+      <circle cx="31" cy="31" r="19" fill="none" stroke="#0C131D" stroke-width="1.6" stroke-dasharray="6 3"/>
+      <circle cx="31" cy="31" r="11" fill="none" stroke="#0C131D" stroke-width="1.6"/>
+      <polygon points="31,11 35,27 51,31 35,35 31,51 27,35 11,31 27,27" fill="#0C131D"/>
+      <circle cx="31" cy="31" r="4" fill="#7AE6ED"/>
+    </g>
+
+          <text x="920" y="58" class="mono" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#FFE08A">SKILL 03 // M3 · ICONIC DOMAIN</text>
+          <text x="920" y="82" class="sans" font-size="19" font-weight="800" fill="#F7F3E6">Foxfire Sanctuary</text>
+          <text x="920" y="102" class="sans" font-size="12" font-weight="600" fill="#8295AB">狐火の聖域 · Cloud &amp; System Mastery</text>
+
+          <line x1="828" y1="122" x2="1152" y2="122" stroke="#263B52" stroke-width="1"/>
+
+          <path d="M 835,136 H 1152 V 163 L 1145,170 H 828 V 143 Z" fill="#1A283A" stroke="#263B52" stroke-width="0.9"/>
+          <text x="990.0" y="157" text-anchor="middle" class="mono" font-size="11.2" font-weight="700" fill="#7AE6ED">AWS · GCP · Docker · PostgreSQL · Linux</text>
+
+          <text x="828" y="198" class="sans" font-size="13" fill="#CBD5E1">Expands sanctuary range; stabilizes scale</text>
+          <text x="828" y="218" class="sans" font-size="13" fill="#CBD5E1">and amplifies squad output (+40% Velocity).</text>
+
+          <g transform="translate(828, 246)">
+            <polygon points="0,-6 6,0 0,6 -6,0" fill="#FFE08A"/>
+            <polygon points="16,-6 22,0 16,6 10,0" fill="#FFE08A"/>
+            <polygon points="32,-6 38,0 32,6 26,0" fill="#FFE08A"/>
+            <text x="48" y="4" class="mono" font-size="10.5" font-weight="700" letter-spacing="1" fill="#8295AB">MASTERY RANK III</text>
+          </g>
+        </g>
+    
+      <g transform="translate(22, 296)">
+        <path d="M 12,0 H 566 V 62 L 554,74 H 0 V 12 Z" fill="#152130" stroke="#263B52" stroke-width="1.2"/>
+        <rect x="0" y="14" width="4" height="46" fill="#4BD0D9"/>
+        <text x="20" y="26" class="mono" font-size="11" font-weight="800" letter-spacing="1.4" fill="#4BD0D9">TALENT I // ARTS RESONANCE (アーツ共鳴)</text>
+        <text x="20" y="48" class="sans" font-size="13.5" font-weight="600" fill="#F7F3E6">Polyglot synergy across JS, TypeScript, Python, Go, PHP &amp; Java ecosystems.</text>
+        <text x="20" y="64" class="mono" font-size="10.5" fill="#8295AB">SP RECOVERY +0.4/s TO ALL DEPLOYED STACK MODULES</text>
+
+        <path d="M 602,0 H 1156 V 62 L 1144,74 H 590 V 12 Z" fill="#152130" stroke="#263B52" stroke-width="1.2"/>
+        <rect x="590" y="14" width="4" height="46" fill="#F4C860"/>
+        <text x="610" y="26" class="mono" font-size="11" font-weight="800" letter-spacing="1.4" fill="#F4C860">TALENT II // BINDING LIGHT (九尾の加護)</text>
+        <text x="610" y="48" class="sans" font-size="13.5" font-weight="600" fill="#F7F3E6">「一期一会」— Every architecture &amp; collaboration treated with enduring care.</text>
+        <text x="610" y="64" class="mono" font-size="10.5" fill="#8295AB">PASSIVE: REDUCES TECHNICAL DEBT &amp; STABILIZES PRODUCTION</text>
+      </g>
+  </g>
+  <path d="M 22,2 H 1178 L 1198,22 V 370 L 1178,390 H 22 L 2,370 V 22 Z" fill="none" stroke="#263B52" stroke-width="1.5"/>
+</svg>

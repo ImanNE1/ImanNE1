@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=dracula
+            github-contribution-grid-snake.svg?color_snake=%2322B2C2&color_dots=%23F7F1DF,%23FCE7A2,%23F3C65F,%23E09E24,%23B5720C
+            github-contribution-grid-snake-dark.svg?color_snake=%23F4C860&color_dots=%23161F2C,%231C4552,%23227280,%232B9EA8,%234BD0D9
 
       # Step 3: Menggunakan Git untuk menyimpan file yang baru dibuat
       - name: Commit and push new snake files
